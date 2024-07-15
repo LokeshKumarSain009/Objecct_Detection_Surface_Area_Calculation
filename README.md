@@ -1,7 +1,3 @@
-Certainly! Here's a README file that explains the approach used and provides a line-by-line explanation of the code for the Object Detection and Surface Area Calculation project:
-
----
-
 # Object Detection and Surface Area Calculation
 
 ## Overview
@@ -73,7 +69,3 @@ This project utilizes YOLOv4, OpenCV, and Python to detect objects in images, cl
 - **Additional Shape Recognition**: Expand shape classification to include more geometric shapes (e.g., triangles, ellipses).
 
 - **Depth-Aware Surface Area Calculation**: Develop methods to estimate the actual physical surface area of 3D objects based on depth information.
-
----
-
-This README provides a comprehensive guide to understanding and utilizing the Object Detection and Surface Area Calculation project, including dependencies, approach, usage instructions, and potential future enhancements.
